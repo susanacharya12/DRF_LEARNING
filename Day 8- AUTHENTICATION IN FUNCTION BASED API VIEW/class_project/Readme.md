@@ -7,12 +7,12 @@ Today, I learned how to secure APIs in **Function-Based Views (FBVs)** by combin
 - **Permissions** answer: Are you allowed to do this?
 
 DRF makes it simple to apply these security layers using built-in decorators, allowing only the right users to access or modify data.
-
-## What I Learned
 - DRF supports multiple authentication types:
   - **Basic Authentication**
   - **Session Authentication**
   - **JWT Authentication**
+
+ ## What I Learned
 - Permissions control access to endpoints:
   - `AllowAny` – Open to all users.
   - `IsAuthenticated` – Only logged-in users can access.

@@ -1,0 +1,35 @@
+# Day 1 - Serializers and Serialization in Django REST Framework
+
+## Overview
+Today, I took my first deep dive into **Serializers** and **Serialization** using Django REST Framework (DRF).  
+This was my first step toward building robust APIs with Django!
+
+## What I Learned
+- **Serialization**: Converting Django model instances into JSON so they can be used in APIs.
+- **Serializer Class**: Created a serializer for a simple model with the following fields:
+  - `name`
+  - `roll`
+  - `city`
+- **API Implementation**:
+  - Built a basic API to **fetch** and **post** personal details.
+  - Tested successfully using **Postman** with both `GET` and `POST` requests.
+- Observed the data flow from the database to a **clean JSON response** — this is the foundation of modern web APIs.
+
+## Key Files
+- `models.py` → Defines the Student model.
+- `serializers.py` → Serializer class for the Student model.
+- `views.py` → Function-based API views for GET and POST requests.
+- `urls.py` → URL routing for the API endpoints.
+
+## Takeaways
+- Understanding serializers is **crucial** for building APIs with Django REST Framework.  
+- This day laid the foundation for all future API development in DRF.
+
+## Next Steps
+- Explore **Class-Based Views** and **Generic Views**.  
+- Learn about **authentication** and **permissions** to secure APIs.
+
+---
+
+### Hashtags
+#Django #DjangoRESTFramework #DRF #Python #WebDevelopment #API

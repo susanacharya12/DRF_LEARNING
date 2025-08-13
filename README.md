@@ -1,6 +1,6 @@
 # Learning Django REST Framework (DRF) –  Journey
 
-Welcome to my **13-day learning journey of Django REST Framework (DRF)**.  
+Welcome to my  learning journey of Django REST Framework (DRF) 
 This repository documents the key concepts, projects, and hands-on practice I completed each day while learning to build robust APIs with Django.
 
 ---

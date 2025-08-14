@@ -1,4 +1,4 @@
-# Learning Django REST Framework (DRF) –  Journey
+# 🚀 Learning Django REST Framework (DRF) – Journey 📚
 
 Welcome to my  learning journey of Django REST Framework (DRF) 
 This repository documents the key concepts, projects, and hands-on practice I completed each day while learning to build robust APIs with Django.
@@ -107,6 +107,15 @@ This repository documents the key concepts, projects, and hands-on practice I co
 
 ---
 
+
+## Day 14: LimitOffsetPagination with Hostel Model
+- Created a Hostel model with fields such as name, owner_name, and location.
+- Implemented LimitOffsetPagination globally in settings.py:
+- limit → Specifies how many records to return.
+- offset → Specifies the starting point in the dataset.
+- Tested the API by fetching hostel records with different limits and offsets.
+- Learned how LimitOffsetPagination provides more flexibility for client-side data navigation.
+---
 ## Summary
  I progressed from **basic serializers** to **secure, scalable, and professional APIs** with Django REST Framework.  
 I gained hands-on experience with:

@@ -117,9 +117,16 @@ This repository documents the key concepts, projects, and hands-on practice I co
 - Learned how LimitOffsetPagination provides more flexibility for client-side data navigation.
 ---
 
+## Day 15: Serializer Relationships
+- Explored serializer relationships to handle related models in DRF.
+- Implemented nested serializers for one-to-many and many-to-many relationships:
+- Built APIs to fetch related data cleanly:
+- Tested CRUD operations with Postman including related data:
+- GET, POST, PUT, PATCH, DELETE
+- Learned how serializer relationships make APIs clean, organized, and scalable.
+- Key Files: models.py, serializers.py, views.py, urls.py
 
-
-## Day 15: Token Authentication
+## Day 16: Token Authentication
 - Implemented Token Authentication to secure APIs.
 - Used DRF's built-in token authentication system:
 - Endpoint to obtain token: /api-token-auth/

@@ -139,6 +139,7 @@ I gained hands-on experience with:
 - Generic Views and ModelViewSet
 - Authentication, Permissions, and Custom Permissions
 - Nested Serializers, Filtering, Search, and Pagination
+- Token Authentication To Authenticate Api
 - API testing with Postman and practical mini-projects  
 
 This journey strengthened my understanding of **modern web API development with Django** and prepared me to build production-ready applications.

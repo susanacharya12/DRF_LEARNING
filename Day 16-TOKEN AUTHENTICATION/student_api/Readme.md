@@ -2,19 +2,6 @@
 
 This project demonstrates how to implement **Token Authentication** in Django REST Framework (DRF) and perform CRUD operations (**POST, GET, PUT, PATCH, DELETE**) using Postman.
 
----
-
-## Table of Contents
-
-- [Features](#features)  
-- [Installation](#installation)  
-- [Project Setup](#project-setup)  
-- [Models](#models)  
-- [Serializers](#serializers)  
-- [Views](#views)  
-- [URLs](#urls)  
-- [Token Authentication](#token-authentication)  
-- [Using Postman](#using-postman)  
 
 
 

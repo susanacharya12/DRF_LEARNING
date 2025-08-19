@@ -127,9 +127,10 @@ This repository documents the key concepts, projects, and hands-on practice I co
 - Tested all CRUD operations with Postman using the token:
 - GET, POST, PUT, PATCH, DELETE
 - Learned how token authentication provides stateless, secure access to APIs.
-= Key Files: urls.py, views.py, settings.py
+- Key Files: urls.py, views.py, settings.py
 
 ---
+
 ## Summary
  I progressed from **basic serializers** to **secure, scalable, and professional APIs** with Django REST Framework.  
 I gained hands-on experience with:

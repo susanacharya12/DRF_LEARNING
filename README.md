@@ -116,6 +116,20 @@ This repository documents the key concepts, projects, and hands-on practice I co
 - Tested the API by fetching hostel records with different limits and offsets.
 - Learned how LimitOffsetPagination provides more flexibility for client-side data navigation.
 ---
+
+
+
+## Day 15: Token Authentication
+- Implemented Token Authentication to secure APIs.
+- Used DRF's built-in token authentication system:
+- Endpoint to obtain token: /api-token-auth/
+- Token is required in Authorization header as Bearer <token> to access protected APIs.
+- Tested all CRUD operations with Postman using the token:
+- GET, POST, PUT, PATCH, DELETE
+- Learned how token authentication provides stateless, secure access to APIs.
+= Key Files: urls.py, views.py, settings.py
+
+---
 ## Summary
  I progressed from **basic serializers** to **secure, scalable, and professional APIs** with Django REST Framework.  
 I gained hands-on experience with:

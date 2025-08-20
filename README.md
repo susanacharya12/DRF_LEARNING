@@ -136,6 +136,13 @@ This repository documents the key concepts, projects, and hands-on practice I co
 - Learned how token authentication provides stateless, secure access to APIs.
 - Key Files: urls.py, views.py, settings.py
 
+
+## Day17: JWT Authentication
+- CRUD API for Employee using ModelViewSet
+- JWT Authentication (access & refresh tokens)
+- Global IsAuthenticated permission
+- Fully testable in Postman
+
 ---
 
 ## Summary
@@ -148,6 +155,8 @@ I gained hands-on experience with:
 - Nested Serializers, Filtering, Search, and Pagination
 - Token Authentication To Authenticate Api
 - Serializers Relationship
+- JWT Authentication
+
 - API testing with Postman and practical mini-projects  
 
 This journey strengthened my understanding of **modern web API development with Django** and prepared me to build production-ready applications.

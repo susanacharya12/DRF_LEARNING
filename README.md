@@ -137,7 +137,7 @@ This repository documents the key concepts, projects, and hands-on practice I co
 - Key Files: urls.py, views.py, settings.py
 
 
-## Day17: JWT Authentication
+## Day 17: JWT Authentication
 - CRUD API for Employee using ModelViewSet
 - JWT Authentication (access & refresh tokens)
 - Global IsAuthenticated permission
